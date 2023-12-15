@@ -3,8 +3,8 @@
 ## Group members : 
 1. Ehsan Mokhtari : 2108539 : ehsan76m@gmail.com
 2. Arash Bakhshaee Babaroud : 2105709 : arashbakhshaee@gmail.com 
-3. Habibul Bashar
-4. Susanna Di Giammarco
+3. Syed Habibul Bashar : 2102742 : habibulbashar22@gmail.com
+4. Susanna Di Giammarco : 1838403 : digiammarco.1838403@studenti.uniroma1.it
 
 ## Files Structure :
 - 'hw4_main.ipynb' file, contains all the related codes about the main code.
