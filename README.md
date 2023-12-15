@@ -10,3 +10,4 @@
 - 'hw4_main.ipynb' file, contains all the related codes about the main code.
 - 'hw4_aq.ipynb' file, contains the answers about the Algorithmic Question (AQ).
 - 'hw4_clq' file, contains the answers to the CommandLine Question (CLQ).
+- 'screenshots' is the folder containing the results of the clq question.
