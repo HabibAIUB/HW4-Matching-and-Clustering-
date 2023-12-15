@@ -7,7 +7,6 @@
 4. Susanna Di Giammarco : 1838403 : digiammarco.1838403@studenti.uniroma1.it
 
 ## Files Structure :
-- 'hw4_main.ipynb' file, contains all the related codes about the main code.
-- 'hw4_aq.ipynb' file, contains the answers about the Algorithmic Question (AQ).
-- 'hw4_clq' file, contains the answers to the CommandLine Question (CLQ).
+- 'main.ipynb' file, contains all the related codes about the Q1, Q2, Bonus Question and Algorithmic Question.
+- 'commandline.sh' file, contains the answers to the CommandLine Question (CLQ).
 - 'screenshots' is the folder containing the results of the clq question.
