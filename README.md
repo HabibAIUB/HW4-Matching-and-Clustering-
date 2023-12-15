@@ -1,8 +1,8 @@
 # ADM Homework 4 - Group 4
 
 ## Group members : 
-1. Ehsan Mokhtari : 2108539 :
-2. Arash Bakhshaei :
+1. Ehsan Mokhtari : 2108539 : ehsan76m@gmail.com
+2. Arash Bakhshaee Babaroud : 2105709 : arashbakhshaee@gmail.com 
 3. Habibul Bashar
 4. Susanna Di Giammarco
 
