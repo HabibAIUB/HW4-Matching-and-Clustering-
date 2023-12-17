@@ -9,4 +9,4 @@
 ## Files Structure :
 - 'main.ipynb' file, contains all the related codes about the Q1, Q2, Bonus Question and Algorithmic Question.
 - 'commandline.sh' file, contains the answers to the CommandLine Question (CLQ).
-- 'screenshots' is the folder containing the results of the clq question.
+- 'screenshot.jpg' is the screenshot for the clq question result.
