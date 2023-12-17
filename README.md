@@ -7,6 +7,6 @@
 4. Susanna Di Giammarco : 1838403 : digiammarco.1838403@studenti.uniroma1.it
 
 ## Files Structure :
-- 'main.ipynb' file, contains all the related codes about the Q1, Q2, Bonus Question and Algorithmic Question.
+- 'main.ipynb' file, contains all the related codes about the Q1, Q2 and Algorithmic Question.
 - 'commandline.sh' file, contains the answers to the CommandLine Question (CLQ).
 - 'screenshot.jpg' is the screenshot for the clq question result.
